@@ -1,2 +1,2 @@
-# HTML-Basic-Notes
-Quick review html basic notes
+# HTML-Notes
+CHEATSHEET - Quick review html notes
